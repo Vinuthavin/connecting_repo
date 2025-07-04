@@ -1,2 +1,5 @@
 a = "Hello world"
 print(a)
+
+b = "apple"
+print(b)
