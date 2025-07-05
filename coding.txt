@@ -3,3 +3,6 @@ print(a)
 
 b = "apple"
 print(b)
+
+list = [1,2,3,4,5]
+print(list)
